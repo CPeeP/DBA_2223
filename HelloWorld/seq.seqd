@@ -1,0 +1,19 @@
+│├Hicham                            │I.M. Mace Windu                    
+│                                   │                                   
+││DATE:2022-09-30 12:34:25:297      │                                   
+││CONT:SElDSEFNIEJPVUNIRU1NQSBCT1VIT│                                   
+│├─────────────────────────────────>│                                   
+│                                   │                                   
+│                                   ││DATE:2022-09-30 12:34:25:412      
+│                                   ││CONT:Confirm check-in from agent H
+│<───────────────────────────────────┤                                  
+│                                   │                                   
+││DATE:2022-09-30 12:34:25:417      │                                   
+││CONT:Request checkout             │                                   
+│├─────────────────────────────────>│                                   
+│                                   │                                   
+│                                   ││DATE:2022-09-30 12:34:25:635      
+│                                   ││CONT:Confirm check-out of agent Hi
+│<───────────────────────────────────┤                                  
+│                                   │                                   
+
